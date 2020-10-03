@@ -1,5 +1,5 @@
 # FIFA 2020
-In my project I am analyzing a fifa2020 simulator game
+In my project I am analyzing a fifa2020 simulator game players
 
 For the analysis, I used the following data: overall reiting of players, age of players, nationalities of players, club, value and wage of players, preffered foot(right-handed or left-handed), international reputation of players, position in team
 
